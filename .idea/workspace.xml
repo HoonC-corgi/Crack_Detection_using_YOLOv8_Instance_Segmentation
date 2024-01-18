@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f116dc3-40a0-4d28-a127-9b62fca1fb94" name="변경" comment="프로젝트 업데이트">
-      <change afterPath="$PROJECT_DIR$/yoloseg/Img_Video_Webcam/image_instance_segmentation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yoloseg/Img_Video_Webcam/video_instance_segmentation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yoloseg/Img_Video_Webcam/webcam_instance_segmentation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yoloseg/holoLens/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/img/detected_objects.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/img/video_yolov8_segmentation.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_instance_segmentation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/yoloseg/Img_Video_Webcam/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video_instance_segmentation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webcam_instance_segmentation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yoloseg/YOLOSeg.py" beforeDir="false" afterPath="$PROJECT_DIR$/yoloseg/YOLOSeg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yoloseg/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/yoloseg/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,8 +196,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.webcam_instance_segmentation" />
       <item itemvalue="Python.YOLOSeg" />
+      <item itemvalue="Python.webcam_instance_segmentation" />
     </list>
     <recent_temporary>
       <list>
@@ -233,6 +217,23 @@
       <workItem from="1701354487876" duration="33000" />
       <workItem from="1701354526838" duration="22000" />
     </task>
+    <task id="LOCAL-00001" summary="프로젝트 업데이트">
+      <option name="closed" value="true" />
+      <created>1705572906856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705572906856</updated>
+    </task>
+    <task id="LOCAL-00002" summary="프로젝트 업데이트">
+      <option name="closed" value="true" />
+      <created>1705572932217</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705572932217</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -6,7 +6,7 @@
  * **requirements.txt** 을 통해 필요한 패키지를 다운로드합니다.
 
 # 설치
-```
+``` python
 // 아나콘다 가상환경 접속
 conda activate [yourName]
 
@@ -19,24 +19,24 @@ pip install -r requirements.
 # 주요 파일
 
  * **Image inference**:
- ```
+ ``` python
  python image_instance_segmentation.py
  ```
 
  * **Webcam inference**:
- ```
+ ``` python
  python webcam_instance_segmentation.py
  ```
 
  * **Webcam Source**:
- ```
+ ``` python
  // 0: 내장 카메라, 1: 외장 카메라
 cap = cv2.VideoCapture(1) // 외장 카메라 이용
  ```
 
 
  * **Video inference**:
- ```
+ ``` python
  python video_instance_segmentation.py
  ```
   *Original video: https://www.youtube.com/shorts/toPt_DejlKM*
